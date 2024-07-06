@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zihao Bi"
+  name             : "WRLab"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Jiangnan University"
   location         : "Jiangsu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=Ow1zCswAAAAJ"
   email            : "bzh_email@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
