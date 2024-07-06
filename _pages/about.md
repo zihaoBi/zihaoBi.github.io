@@ -48,8 +48,7 @@ Rui Wang, Chen Hu, Ziheng Chen†, Xiao-Jun Wu†, Xiaoning Song
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024 </div><img src='images/TNNLS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="2">
 
-[SPD Manifold Deep Metric Learning for Image Set Classification]
-(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10467142)
+[SPD Manifold Deep Metric Learning for Image Set Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10467142)
 
 Rui Wang, Xiao-Jun Wu, Ziheng Chen, Cong Hu, Josef Kittler
 
@@ -61,8 +60,7 @@ Rui Wang, Xiao-Jun Wu, Ziheng Chen, Cong Hu, Josef Kittler
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="3">
 
-[Riemannian Multinomial Logistics Regression for SPD Neural Networks]
-(https://arxiv.org/abs/2305.11288)
+[Riemannian Multinomial Logistics Regression for SPD Neural Networks](https://arxiv.org/abs/2305.11288)
 
 Ziheng Chen, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe
 
