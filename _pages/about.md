@@ -55,29 +55,46 @@ Rui Wang, Chen Hu, Ziheng Chen†, Xiao-Jun Wu†, Xiaoning Song
 
 [SPD Manifold Deep Metric Learning for Image Set Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10467142)
 
-Rui Wang, Xiao-Jun Wu, Ziheng Chen, Cong Hu, Josef Kittler
+Rui Wang, Xiao-Jun Wu†, Ziheng Chen, Cong Hu, Josef Kittler
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024 </div><img src='images/TCSVT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Riemannian Multinomial Logistics Regression for SPD Neural Networks](https://arxiv.org/abs/2305.11288)
+[Deep Metric Learning on the SPD Manifold for Image Set Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828488)
 
-Ziheng Chen, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe
+Rui Wang, Xiao-Jun Wu†, Tianyang Xu, Cong Hu, Josef Kittler
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 </div>
 </div>
 
-- <code class="language-plaintext highlighter-rouge">ICLR 2024</code>Ziheng Chen, Yue Song, Yunmei Liu, Nicu Sebe, A Lie Group Approach to Riemannian Batch Normalization.[<a href="https://openreview.net/pdf?id=okYdj8Ysru">PDF</a>]
+- <code class="language-plaintext highlighter-rouge">ICLR 2024</code>Ziheng Chen, Yue Song, Yunmei Liu, Nicu Sebe, A Lie Group Approach to Riemannian Batch Normalization.
+[<a href="https://openreview.net/pdf?id=okYdj8Ysru">PDF</a>] 
+[<a href="https://github.com/GitZH-Chen/LieBN">Code</a>] 
+[<a href="https://github.com/GitZH-Chen/LieBN/blob/main/ICLR24_LieBN_PPT.pdf">Slides</a>] 
+[<a href="https://github.com/GitZH-Chen/LieBN/blob/main/ICLR24_LieBN_Poster.pdf">Poster</a>]
+[<a href="https://iclr.cc/virtual/2024/poster/17806">Video</a>]</li>
 
-- <code class="language-plaintext highlighter-rouge">ICLR 2024</code>Ziheng Chen, Yue Song, Yunmei Liu, Nicu Sebe, A Lie Group Approach to Riemannian Batch Normalization.[<a href="https://openreview.net/pdf?id=okYdj8Ysru">PDF</a>]
-- <code class="language-plaintext highlighter-rouge">ICLR 2024</code>Ziheng Chen, Yue Song, Yunmei Liu, Nicu Sebe, A Lie Group Approach to Riemannian Batch Normalization.[<a href="https://openreview.net/pdf?id=okYdj8Ysru">PDF</a>]
+- <code class="language-plaintext highlighter-rouge">CVPR 2024</code>Ziheng Chen, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe, Riemannian Multinomial Logistics Regression for SPD Neural Networks.
+[<a href="https://arxiv.org/abs/2305.11288">PDF</a>] 
+[<a href="https://github.com/GitZH-Chen/SPDMLR">Code</a>]
+[<a href="https://github.com/GitZH-Chen/SPDMLR/blob/main/CVPR24_SPDMLR_PPT.pdf">Slides</a>] 
+[<a href="https://github.com/GitZH-Chen/SPDMLR/blob/main/CVPR24_SPDMLR_Poster.pdf">Poster</a>]
+[<a href="https://cvpr.thecvf.com/virtual/2024/poster/30661">Video</a>]
+- <code class="language-plaintext highlighter-rouge">AAAI 2023</code>Ziheng Chen, Tianyang Xu, Xiao-Jun Wu, Rui Wang, Zhiwu Huang, Josef Kittler, Riemannian Local Mechanism for SPD Neural Networks.
+[<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25867/25639">PDF</a>] 
+[<a href="https://github.com/GitZH-Chen/MSNet">Code</a>] 
+[<a href="https://github.com/GitZH-Chen/MSNet/blob/main/AAAI23-Riemannian%20Local%20Mechanism.pdf">Slides</a>] 
+[<a href="https://github.com/GitZH-Chen/MSNet/blob/main/AAAI23_POSTER_Submanifolds.pdf">Poster</a>]</li>
+- <code class="language-plaintext highlighter-rouge">IEEE TBD 2021</code>Ziheng Chen, Tianyang Xu, Xiao-Jun Wu, Rui Wang, Josef Kittler, Hybrid Riemannian Graph-Embedding Metric Learning for Image Set Classification.
+[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9540380">PDF</a>] 
+[<a href="https://github.com/GitZH-Chen/HRGEML-v-1">Code</a>]</li>
 
 # 🎖 Honors and Awards
 - *2024.05,* Our team won the first prize in the Eastern Regional Competition of the 15th China College Student Service Outsourcing Innovation and Entrepreneurship Competition. 
