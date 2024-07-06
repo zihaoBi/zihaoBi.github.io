@@ -79,7 +79,7 @@ Rui Wang, Xiao-Jun Wu†, Tianyang Xu, Cong Hu, Josef Kittler
 [<a href="https://github.com/GitZH-Chen/LieBN">Code</a>] 
 [<a href="https://github.com/GitZH-Chen/LieBN/blob/main/ICLR24_LieBN_PPT.pdf">Slides</a>] 
 [<a href="https://github.com/GitZH-Chen/LieBN/blob/main/ICLR24_LieBN_Poster.pdf">Poster</a>]
-[<a href="https://iclr.cc/virtual/2024/poster/17806">Video</a>]</li>
+[<a href="https://iclr.cc/virtual/2024/poster/17806">Video</a>]
 
 - <code class="language-plaintext highlighter-rouge">CVPR 2024</code>Ziheng Chen, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe, Riemannian Multinomial Logistics Regression for SPD Neural Networks.
 [<a href="https://arxiv.org/abs/2305.11288">PDF</a>] 
@@ -87,14 +87,15 @@ Rui Wang, Xiao-Jun Wu†, Tianyang Xu, Cong Hu, Josef Kittler
 [<a href="https://github.com/GitZH-Chen/SPDMLR/blob/main/CVPR24_SPDMLR_PPT.pdf">Slides</a>] 
 [<a href="https://github.com/GitZH-Chen/SPDMLR/blob/main/CVPR24_SPDMLR_Poster.pdf">Poster</a>]
 [<a href="https://cvpr.thecvf.com/virtual/2024/poster/30661">Video</a>]
+
 - <code class="language-plaintext highlighter-rouge">AAAI 2023</code>Ziheng Chen, Tianyang Xu, Xiao-Jun Wu, Rui Wang, Zhiwu Huang, Josef Kittler, Riemannian Local Mechanism for SPD Neural Networks.
 [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25867/25639">PDF</a>] 
 [<a href="https://github.com/GitZH-Chen/MSNet">Code</a>] 
 [<a href="https://github.com/GitZH-Chen/MSNet/blob/main/AAAI23-Riemannian%20Local%20Mechanism.pdf">Slides</a>] 
-[<a href="https://github.com/GitZH-Chen/MSNet/blob/main/AAAI23_POSTER_Submanifolds.pdf">Poster</a>]</li>
+[<a href="https://github.com/GitZH-Chen/MSNet/blob/main/AAAI23_POSTER_Submanifolds.pdf">Poster</a>]
 - <code class="language-plaintext highlighter-rouge">IEEE TBD 2021</code>Ziheng Chen, Tianyang Xu, Xiao-Jun Wu, Rui Wang, Josef Kittler, Hybrid Riemannian Graph-Embedding Metric Learning for Image Set Classification.
 [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9540380">PDF</a>] 
-[<a href="https://github.com/GitZH-Chen/HRGEML-v-1">Code</a>]</li>
+[<a href="https://github.com/GitZH-Chen/HRGEML-v-1">Code</a>]
 
 # 🎖 Honors and Awards
 - *2024.05,* Our team won the first prize in the Eastern Regional Competition of the 15th China College Student Service Outsourcing Innovation and Entrepreneurship Competition. 
