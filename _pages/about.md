@@ -76,7 +76,7 @@ Ziheng Chen, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe
 - <code class="language-plaintext highlighter-rouge">ICLR 2024</code>Ziheng Chen, Yue Song, Yunmei Liu, Nicu Sebe, A Lie Group Approach to Riemannian Batch Normalization.[<a href="https://openreview.net/pdf?id=okYdj8Ysru">PDF</a>]
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05* First Prize in the Eastern Regional Competition of the 15th Service Outsourcing Innovation and Entrepreneurship Competition. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Courses
