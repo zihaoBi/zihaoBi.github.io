@@ -38,10 +38,10 @@ Our research interest includes machine learning,Riemannian manifold and computer
 
 # 📝 Seleted Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024 </div><img src='images/IJCAI.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Grassmannian Manifold Self-Attention Network for Signal Classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A Grassmannian Manifold Self-Attention Network for Signal Classification](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Ow1zCswAAAAJ&sortby=pubdate&citation_for_view=Ow1zCswAAAAJ:4TOpqqG69KYC)
 
 Rui Wang, Chen Hu, Ziheng Chen†, Xiao-Jun Wu†, Xiaoning Song
 
