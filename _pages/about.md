@@ -19,9 +19,13 @@ redirect_from:
 
 简介，团队介绍
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> 
+Our research interest includes machine learning,Riemannian manifold and computer vision. We have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> 
 <!--(You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
+# 👥 Team Members
+- *<b>Co-founders:</b>* Rui Wang,Ziheng Chen
+- *<b>Members@2023:</b>* Chen Hu,Shaocheng Jin, Zihao Bi
+- *<b>Members@2024:</b>* Join us!
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉🎉 One paper on Grassmannian self-attention was accepted to IJCAI 2024. Congrats Rui and Chen!
@@ -77,7 +81,7 @@ Ziheng Chen, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe
 
 # 🎖 Honors and Awards
 - *2024.05,* Our team won the first prize in the Eastern Regional Competition of the 15th China College Student Service Outsourcing Innovation and Entrepreneurship Competition. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Courses
 To obtain basic foundations for my research, I have self-studied several math courses, most of which were done during my master studies:
