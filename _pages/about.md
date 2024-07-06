@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-# 📝 Publications 
+# 📝 Seleted Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -45,24 +45,26 @@ Rui Wang, Chen Hu, Ziheng Chen†, Xiao-Jun Wu†, Xiaoning Song
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Grassmannian Manifold Self-Attention Network for Signal Classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[SPD Manifold Deep Metric Learning for Image Set Classification]
+(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10467142)
 
-Rui Wang, Chen Hu, Ziheng Chen†, Xiao-Jun Wu†, Xiaoning Song
+Rui Wang, Xiao-Jun Wu, Ziheng Chen, Cong Hu, Josef Kittler
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Grassmannian Manifold Self-Attention Network for Signal Classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Riemannian Multinomial Logistics Regression for SPD Neural Networks]
+(https://arxiv.org/abs/2305.11288)
 
-Rui Wang, Chen Hu, Ziheng Chen†, Xiao-Jun Wu†, Xiaoning Song
+Ziheng Chen, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
