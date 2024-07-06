@@ -38,7 +38,7 @@ Our research interest includes machine learning,Riemannian manifold and computer
 
 # 📝 Seleted Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024 </div><img src='images/IJCAI.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024 </div><img src='images/IJCAI.jpg' alt="sym" height="500" width="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Grassmannian Manifold Self-Attention Network for Signal Classification](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Ow1zCswAAAAJ&sortby=pubdate&citation_for_view=Ow1zCswAAAAJ:4TOpqqG69KYC)
@@ -50,7 +50,7 @@ Rui Wang, Chen Hu, Ziheng Chen†, Xiao-Jun Wu†, Xiaoning Song
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024 </div><img src='images/TNNLS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024 </div><img src='images/TNNLS.jpg' alt="sym" height="500" width="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SPD Manifold Deep Metric Learning for Image Set Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10467142)
@@ -62,7 +62,7 @@ Rui Wang, Xiao-Jun Wu†, Ziheng Chen, Cong Hu, Josef Kittler
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024 </div><img src='images/TCSVT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024 </div><img src='images/TCSVT.jpg' alt="sym" height="500" width="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Metric Learning on the SPD Manifold for Image Set Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828488)
