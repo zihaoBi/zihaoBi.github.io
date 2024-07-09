@@ -106,6 +106,15 @@ Rui Wang, Xiao-Jun Wu†, Tianyang Xu, Cong Hu, Josef Kittler
 
 - <code class="language-plaintext highlighter-rouge">IEEE TBD 2020</code>Rui Wang, Xiao-Jun Wu†, Kai-Xuan Chen, Josef Kittler, Multiple Riemannian Manifold-Valued Descriptors Based Image Set Classification With Multi-Kernel Metric Learning.
 [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043722">PDF</a>] 
+
+# ✨ Scientific research projects
+1. National Natural Science Foundation of China (NSFC), research on lightweight Riemannian neural networks, 2024.01-2026.12 (hosted)
+2. Natural Science Foundation of Jiangsu Province, research on Riemannian deep learning technique for open scene object recognition, 2023.09-2026.08 (hosted)
+3. Fundamental Research Funds for the Central Universities, research on Riemannian deep learning technique for complicated visual classification, 2024.01-2025.12 (hosted)
+4. National Natural Science Foundation of China (NSFC), research on neural representation and modeling for dynamic scene, 2024.01-2026.12 (key member)
+5. National Key Research and Development Program of China, research on AI-based food safety tracking and supervision, 2024.01-2028.12 (key member)
+6. Key Project of Wuxi Municipal Health Commission, research on AI-based ECG analysis and prediction, 2024.01-2025.12 (key member)
+
 # 🎖 Honors and Awards
 - *2024.05,* Our team won the first prize in the Eastern Regional Competition of the 15th China College Student Service Outsourcing Innovation and Entrepreneurship Competition. 
 
