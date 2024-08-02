@@ -28,6 +28,7 @@ Our research interest includes machine learning,Riemannian manifold and computer
 - *<b>Members@2024:</b>* Join us!
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 One paper on Riemannian Residual Learning Mechanism on SPD manifolds was accepted to IJCNN 2024.
 - *2024.04*: &nbsp;🎉🎉 One paper on Grassmannian self-attention was accepted to IJCAI 2024. Congrats Rui and Chen!
 - *2024.03*: &nbsp;🎉🎉 Our CVPR 2024 paper on Riemannian classifiers was selected as poster to VALSE 2024.
 - *2024.03*: &nbsp;🎉🎉 One paper on SPD deep metric learning was early accessed in TNNLS.
